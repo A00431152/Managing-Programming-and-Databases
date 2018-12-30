@@ -1,0 +1,32 @@
+#!/bin/bash
+#
+  user=b_shree
+  pass=A00431152
+  db=b_shree
+  sleeptime=3
+#
+#PLEASE RUN THIS COMMAND BEFORE EXECUTING THIS FILE: pip install pandas
+#step 1 - export mongo article collection to a csv file
+mongoexport -d $db -p $pass -u $user -c ARTICLE --type=csv --fields article_id,article_title,authors,name,vol_id,page_num,year --out articles.csv
+
+#step 2 - export mongo author collection to a csv file
+mongoexport -d $db -p $pass -u $user -c AUTHOR --type=csv --fields _id,lname,fname,email --out authors.csv
+
+#step 3 - python scripts
+python Item.py
+python add_to_Author.py
+python New_Article.py
+python Magazine_Table.py
+python Magazine_Volume.py
+python Article_Author.py
+
+#step 4 - Importing the csv files to sql
+mysql -u "$user" --password=$pass "$db" -e "load data local infile 'Item.csv' into table ITEM fields terminated by ',' lines terminated by '\n' IGNORE 1 LINES (_id, price)"
+mysql -u "$user" --password=$pass "$db" -e "load data local infile 'authors.csv' into table AUTHOR fields terminated by ',' lines terminated by '\n' IGNORE 1 LINES (_id,lname,fname,email)"
+mysql -u "$user" --password=$pass "$db" -e "load data local infile 'Magazines.csv' into table MAGAZINE fields terminated by ',' lines terminated by '\n' IGNORE 1 LINES (_id,name)"
+mysql -u "$user" --password=$pass "$db" -e "load data local infile 'Magazine_Volume.csv' into table MAGAZINE_VOLUME fields terminated by ',' lines terminated by '\n' IGNORE 1 LINES (vol_id,publication_year,magazine_id)"
+mysql -u "$user" --password=$pass "$db" -e "load data local infile 'New_Article.csv' into table ARTICLE fields terminated by ',' lines terminated by '\n' IGNORE 1 LINES (article_id,vol_id,article_title,page_num)"
+mysql -u "$user" --password=$pass "$db" -e "load data local infile 'article_author.csv' into table ARTICLE_AUTHOR fields terminated by ',' lines terminated by '\n' IGNORE 1 LINES (art_auth_id,author_id,article_id)"
+
+#step 5 - Delete all csv files
+rm Item.csv authors.csv article_author.csv Magazines.csv Magazine_Volume.csv New_Article.csv articles.csv

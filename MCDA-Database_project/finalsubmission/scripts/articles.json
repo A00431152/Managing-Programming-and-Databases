@@ -1,0 +1,711 @@
+[
+    {
+        "title": "Implementation and Application of Automata (CIAA 2013).",
+        "authors": [
+            "Stavros Konstantinidis"
+        ],
+        "magazine": "Theor. Comput. Sci.",
+        "volume": 578,
+        "pages": "1",
+        "year": 2015,
+        "type": "Journal Articles"
+    },
+    {
+        "title": "Cover Languages and Implementations.",
+        "authors": [
+            "Cezar Campeanu"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "1",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Automata for Codes.",
+        "authors": [
+            "Helmut Jurgensen"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "2-15",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Applications of Symbolic Finite Automata.",
+        "authors": [
+            "Margus Veanes"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "16-23",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Computing Weights.",
+        "authors": [
+            "Houda Abbad",
+            "Eric Laugerotte"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "24-35",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Partial Word DFAs.",
+        "authors": [
+            "Eric Balkanski",
+            "Francine Blanchet-Sadri",
+            "Matthew Kilgore",
+            "Benjamin J. Wyatt"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "36-47",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Using Regular Grammars for Event-Based Testing.",
+        "authors": [
+            "Fevzi Belli",
+            "Mutlu Beyazit"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "48-59",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Two-Pass Greedy Regular Expression Parsing.",
+        "authors": [
+            "Niels Bjorn Bugge Grathwohl",
+            "Fritz Henglein",
+            "Lasse Nielsen",
+            "Ulrik Terp Rasmussen"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "60-71",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Universal Witnesses for State Complexity of Basic Operations Combined with Reversal.",
+        "authors": [
+            "Janusz A. Brzozowski",
+            "David Liu"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "72-83",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Trimming Visibly Pushdown Automata.",
+        "authors": [
+            "Mathieu Caralp",
+            "Pierre-Alain Reynier",
+            "Jean-Marc Talbot"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "84-96",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "A Uniformization Theorem for Nested Word to Word Transductions.",
+        "authors": [
+            "Dmitry Chistikov",
+            "Rupak Majumdar"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "97-108",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Towards Nominal Context-Free Model-Checking.",
+        "authors": [
+            "Pierpaolo Degano",
+            "Gian Luigi Ferrari",
+            "Gianluca Mezzetti"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "109-121",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Implementation Concepts in Vaucanson 2.",
+        "authors": [
+            "Akim Demaille",
+            "Alexandre Duret-Lutz",
+            "Sylvain Lombardy",
+            "Jacques Sakarovitch"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "122-133",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "A Completion Algorithm for Lattice Tree Automata.",
+        "authors": [
+            "Thomas Genet",
+            "Tristan Le Gall",
+            "Axel Legay",
+            "Valerie Murat"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "134-145",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Approximate Matching between a Context-Free Grammar and a Finite-State Automaton.",
+        "authors": [
+            "Yo-Sub Han",
+            "Sang-Ki Ko",
+            "Kai Salomaa"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "146-157",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "On Palindromic Sequence Automata and Applications.",
+        "authors": [
+            "Md. Mahbubul Hasan",
+            "A. S. M. Sohidull Islam",
+            "M. Sohel Rahman",
+            "Ayon Sen"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "158-168",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "LALBLC A Program Testing the Equivalence of dpda's.",
+        "authors": [
+            "Patrick Henry",
+            "Geraud Senizergues"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "169-180",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Brzozowski's Minimization Algorithm - More Robust than Expected - (Extended Abstract).",
+        "authors": [
+            "Markus Holzer 0001",
+            "Sebastian Jakobi"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "181-192",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Some Decision Problems Concerning NPDAs, Palindromes, and Dyck Languages.",
+        "authors": [
+            "Oscar H. Ibarra",
+            "Bala Ravikumar"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "193-207",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "On the Boundary of Regular Languages.",
+        "authors": [
+            "Jozef Jirasek",
+            "Galina Jiraskova"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "208-219",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "On the Length of Homing Sequences for Nondeterministic Finite State Machines.",
+        "authors": [
+            "Natalia Kushik",
+            "Nina Yevtushenko"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "220-231",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Input-Driven Queue Automata - Finite Turns, Decidability, and Closure Properties.",
+        "authors": [
+            "Martin Kutrib",
+            "Andreas Malcher",
+            "Carlo Mereghetti",
+            "Beatrice Palano",
+            "Matthias Wendlandt"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "232-243",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Hyper-optimization for Deterministic Tree Automata.",
+        "authors": [
+            "Andreas Maletti"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "244-255",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Lambda-Confluence Is Undecidable for Clearing Restarting Automata.",
+        "authors": [
+            "Frantisek Mraz",
+            "Friedrich Otto"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "256-267",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Comparing Two-Dimensional One-Marker Automata to Sgraffito Automata.",
+        "authors": [
+            "Daniel Prusa",
+            "Frantisek Mraz",
+            "Friedrich Otto"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "268-279",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Deterministic Counter Machines and Parallel Matching Computations.",
+        "authors": [
+            "Stefano Crespi-Reghizzi",
+            "Pierluigi San Pietro"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "280-291",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Early Nested Word Automata for XPath Query Answering on XML Streams.",
+        "authors": [
+            "Denis Debarbieux",
+            "Olivier Gauwin",
+            "Joachim Niehren",
+            "Tom Sebastian",
+            "Mohamed Zergaoui"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "292-305",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Invertible Transducers, Iteration and Coordinates.",
+        "authors": [
+            "Klaus Sutner"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "306-318",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Compressed Automata for Dictionary Matching.",
+        "authors": [
+            "Tomohiro I",
+            "Takaaki Nishimoto",
+            "Shunsuke Inenaga",
+            "Hideo Bannai",
+            "Masayuki Takeda"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "319-330",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Enhancing Approximations for Regular Reachability Analysis.",
+        "authors": [
+            "Alois Dreyfus",
+            "Pierre-Cyrille Heam",
+            "Olga Kouchnarenko"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "331-339",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Generating Small Automata and the Cerny Conjecture.",
+        "authors": [
+            "Andrzej Kisielewicz",
+            "Marek Szykula"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "340-348",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Incomplete Transition Complexity of Basic Operations on Finite Languages.",
+        "authors": [
+            "Eva Maia",
+            "Nelma Moreira",
+            "Rogerio Reis"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 7982,
+        "pages": "349-356",
+        "year": 2013,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "FPsolve - A Generic Solver for Fixpoint Equations over Semirings.",
+        "authors": [
+            "Javier Esparza",
+            "Michael Luttenberger",
+            "Maximilian Schlund"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "1-15",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Restarting Automata for Picture Languages - A Survey on Recent Developments.",
+        "authors": [
+            "Friedrich Otto"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "16-41",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Investigations on Automata and Languages over a Unary Alphabet.",
+        "authors": [
+            "Giovanni Pighizzini"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "42-57",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Cellular Automata for Crowd Dynamics.",
+        "authors": [
+            "Georgios Ch. Sirakoulis"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "58-69",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Counting Equivalent Linear Finite Transducers Using a Canonical Form.",
+        "authors": [
+            "Ivone Amorim",
+            "Antonio Machiavelo",
+            "Rogerio Reis"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "70-83",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "On the Power of One-Way Automata with Quantum and Classical States.",
+        "authors": [
+            "Maria Paola Bianchi",
+            "Carlo Mereghetti",
+            "Beatrice Palano"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "84-97",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "On Comparing Deterministic Finite Automata and the Shuffle of Words.",
+        "authors": [
+            "Franziska Biegler",
+            "Ian McQuillan"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "98-109",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Minimal Partial Languages and Automata.",
+        "authors": [
+            "Francine Blanchet-Sadri",
+            "Kira Goldner",
+            "Aidan Shackleton"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "110-123",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Large Aperiodic Semigroups.",
+        "authors": [
+            "Janusz A. Brzozowski",
+            "Marek Szykula"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "124-135",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "On the Square of Regular Languages.",
+        "authors": [
+            "Kristina Cevorova",
+            "Galina Jiraskova",
+            "Ivana Krajnakova"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "136-147",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Unary Languages Recognized by Two-Way One-Counter Automata.",
+        "authors": [
+            "Marzio De Biasi",
+            "Abuzer Yakaryilmaz"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "148-161",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "A Type System for Weighted Automata and Rational Expressions.",
+        "authors": [
+            "Akim Demaille",
+            "Alexandre Duret-Lutz",
+            "Sylvain Lombardy",
+            "Luca Saiu",
+            "Jacques Sakarovitch"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "162-175",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Bounded Prefix-Suffix Duplication.",
+        "authors": [
+            "Marius Dumitran",
+            "Javier Gil",
+            "Florin Manea",
+            "Victor Mitrana"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "176-187",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Recognition of Labeled Multidigraphs by Spanning Tree Automata.",
+        "authors": [
+            "Akio Fujiyoshi"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "188-199",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Reset Thresholds of Automata with Two Cycle Lengths.",
+        "authors": [
+            "Vladimir V. Gusev",
+            "Elena V. Pribavkina"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "200-210",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "On the Ambiguity, Finite-Valuedness, and Lossiness Problems in Acceptors and Transducers.",
+        "authors": [
+            "Oscar H. Ibarra"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "211-225",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Kleene Closure on Regular and Prefix-Free Languages.",
+        "authors": [
+            "Galina Jiraskova",
+            "Matus Palmovsky",
+            "Juraj Sebej"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "226-237",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Left is Better than Right for Reducing Nondeterminism of NFAs.",
+        "authors": [
+            "Sang-Ki Ko",
+            "Yo-Sub Han"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "238-251",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Analytic Functions Computable by Finite State Transducers.",
+        "authors": [
+            "Petr Kurka",
+            "Tomas Vavra"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "252-263",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Partial Derivative and Position Bisimilarity Automata.",
+        "authors": [
+            "Eva Maia",
+            "Nelma Moreira",
+            "Rogerio Reis"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "264-277",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "The Power of Regularity-Preserving Multi Bottom-up Tree Transducers.",
+        "authors": [
+            "Andreas Maletti"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "278-289",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Pushdown Machines for Weighted Context-Free Tree Translation.",
+        "authors": [
+            "Johannes Osterholzer"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "290-303",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Weighted Variable Automata over Infinite Alphabets.",
+        "authors": [
+            "Maria Pittou",
+            "George Rahonis"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "304-317",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Implications of Quantum Automata for Contextuality.",
+        "authors": [
+            "Jibran Rashid",
+            "Abuzer Yakaryilmaz"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "318-331",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    },
+    {
+        "title": "Pairwise Rational Kernels Obtained by Automaton Operations.",
+        "authors": [
+            "Abiel Roche-Lima",
+            "Michael Domaratzki",
+            "Brian Fristensky"
+        ],
+        "magazine": "Lecture Notes in Computer Science",
+        "volume": 8587,
+        "pages": "332-345",
+        "year": 2014,
+        "type": "Conference and Workshop Papers"
+    }
+]
