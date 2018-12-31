@@ -1,0 +1,134 @@
+Vaio
+{{Use dmy dates|date=March 2016}}
+{{Infobox company
+| name             = Vaio Corporation 
+| logo             = [[File:Vaio.svg|200px]]
+| logo_caption     = 
+| image            = 
+| image_caption    = 
+| trading_name     = <!-- d/b/a/, doing business as - if different from legal name above -->
+| native_name      = <!-- Company's name in home country language -->
+| native_name_lang = <!-- Use ISO 639-1 code, e.g. "fr" for French. If there is more than one native name, in different languages, enter those names using {{tl|lang}}, instead. -->
+| romanized_name   = 
+| former_name      = [[Sony]] Vaio
+| type             = Private
+| industry         = [[Laptop]], [[Smartphone]]
+| fate             = 
+| predecessor      = 
+| successor        = [[Japan Industrial Partners]]
+| foundation       = 1996
+| founder          = 
+| defunct          = <!-- {{Friday|2014|6|27}} (US Only)-->
+| location_city    = 
+| location_country = Japan
+| locations        = <!-- Number of locations, stores, offices, etc. -->
+| area_served      = Worldwide
+| key_people       = 
+| products         = [[Laptop]], [[Smartphone]]
+| production       = 
+| services         = 
+| revenue          = 
+| operating_income = 
+| net_income       = 
+| aum              = <!-- Only used with financial services companies -->
+| assets           = 
+| equity           = 
+| owner            = [[Japan Industrial Partners]] (95%) <br> [[Sony]] (5%)
+| num_employees    = 
+| parent           = [[Sony]] (1996-2014)
+| divisions        = 
+| subsid           = 
+| homepage         = Japan {{URL|http://www.VAIO.com}}<br>    United States {{URL|us.vaio.com/}}<br>     Brazil {{URL|br.vaio.com}}<br>     Chile {{URL|cl.vaio.com}}
+| footnotes        = 
+| intl             = 
+| bodystyle        = 
+}}
+
+'''  VAIO Corporation''' ({{IPAc-en|ˈ|v|aɪ|.|oʊ}} standing for '''Visual Audio Intelligent Organizer'''), which is headquartered in [[Azumino]], [[Nagano]] in Japan, is a manufacturer of personal computers. VAIO was originally a brand of [[Sony Corporation]], introduced in 1996. Sony sold its PC business to the investment firm Japan Industrial Partners in February 2014 as part of a restructuring effort to focus on [[Sony Mobile|mobile devices]]. Sony maintains a minority stake in the new, independent company, which currently sells computers in the United States, Japan, and Brazil as well as an exclusive marketing agreement.
+Sony still holds the copyright trademarks for the VAIO brand and logo.
+Currently in the US, VAIO products are sold by Trans Cosmos America, Inc.
+
+==Etymology==
+Originally an [[acronym]] of '''Video Audio Integrated Operation''', this was amended to '''Visual Audio Intelligent Organizer''' in 2008 to celebrate the brand's 10th anniversary.<ref>{{cite web |title=Sony redefines the meaning of VAIO |publisher=pcpro.co.uk |year=2013 |url=http://www.pcpro.co.uk/news/212616/sony-redefines-the-meaning-of-vaio |accessdate=2013-05-23}}</ref> The logo concept was created by Teiyu Goto, supervisor of product design from the Sony Creative Center in Tokyo. He incorporated many meanings into the logo and acronym: the pronunciation is similar to "bio", which is symbolic of life and the product's future evolution; it's also near "violet", which is why most early Vaios were purple or included purple components. Additionally, the logo is stylized to make the "VA" look like a sine wave and the "IO" like binary digits 1 and 0, the combination representing the merging of analog and digital signals.<ref>{{cite web |title=Answered: What Does VAIO Stand For Anyway? |url=https://blog.sony.com/2009/08/answered-what-does-vaio-stand-for-anyway/ |accessdate=2015-06-29}}</ref> The sound some Vaio models make when starting up is derived from the melody created when pressing a telephone keypad to spell the letters V-A-I-O.<ref>{{cite web|url=https://blog.sony.com/2009/08/answered-what-does-vaio-stand-for-anyway/|author=Team Sony|title=Answered: What Does VAIO Stand For Anyway?|date=20 August 2009}}</ref><ref>VAIOホームページ（[[Internet Archive]]のバックアップデータ）, [https://web.archive.org/web/20010810022204/http://www.vaio.sony.co.jp/Enjoy/Inside/vaiologo/ The philosophy of VAIO「VAIO」の由来とフィロソフィー] 2000年 (Japanese)</ref>
+
+==History==
+[[File:Computadora VIO SONY.JPG|thumb|A Vaio RS desktop computer]]
+{{expand section|date=May 2012}}
+Although Sony made [[Timeline of computing 1980–89|computers in the 1980s]] exclusively for the Japanese market, the company withdrew from the computer business around the beginning of the 1990s. Sony's re-entry into the global computer market, under the new Vaio brand, began in 1996 with the PCV series of desktops—the PCV-90 was designed with a 3D graphical interface as a novelty for new users. The first generation of Vaio laptop computers was released in 1997 and the US$2,000 PCG-505 model was designed to be "SuperSlim," and was housed in a four-panel magnesium body.<ref name="Tom">{{cite web|title=A look back at Sony's iconic VAIO computers|url=https://www.theverge.com/2014/2/6/5385716/sony-vaio-iconic-pcs-photo-essay|work=The Verge|publisher=Vox Media Inc|accessdate=7 February 2014|author=Tom Warren|date=6 February 2014}}</ref>
+
+Sony Vaio's latest designs were released during a period of low PC sales and included models with innovations such as magnetized stands and the Vaio Tap, which was designed with a completely separate keyboard. The latest models were complemented by the [[Windows 8]] operating system.<ref name="Tom" />
+
+On 16 October 2015, Vaio agreed to introduce their products in Brazil through a partnership with a local manufacturer [[Positivo Informática]].<ref>{{cite web|url=http://www.valor.com.br/empresas/4271774/positivo-comeca-vender-notebooks-da-linha-vaio-no-brasil|title=
+Positivo start selling Vaio line of laptops in Brazil|work=Valor Econômico (Brazilian Business newspaper)}}</ref>
+
+===Spin-off from Sony===
+On 4 February 2014, Sony announced that it would sell its Vaio PC business due to poor sales.<ref name="Sony Vaio divestment">{{cite news|last=Smith|first=Mat|title=Sony sells its VAIO PC business, makes TV arm its own subsidiary|url=https://www.engadget.com/2014/02/06/sony-sells-vaio/|accessdate=6 February 2014|newspaper=Engadget|date=6 February 2014}}</ref> In March 2014, it was announced that Japan Industrial Partners had purchased the Vaio division.<ref>{{cite web|title=Sony To Exit PC Business By Selling VAIO|url=https://techcrunch.com/2014/02/06/sony-vaio-sale/?ncid=tcdaily|work=TechCrunch|publisher=AOL, Inc|accessdate=7 February 2014|author=Catherine Shu|date=6 February 2014}}</ref><ref>{{cite web|title=Sony Corporation Statement regarding Media Reports dated February 4–5, 2014|url=http://www.sony.net/SonyInfo/News/Press/201402/14-0205E/index.html|publisher=Sony Corporation|accessdate=7 February 2014|date=5 February 2014}}</ref>
+
+The sale was closed on 1 July 2014; on the same day, the company announced refreshed entries in the VAIO Fit and Pro lines. The re-launched products initially distributed in Japan, then later in Brazil.<ref name="pcw-sayonara">{{cite web|title=Sayonara, VAIO: Sony sells off PC business to focus on mobile|url=http://www.pcworld.com/article/2095180/sony-sheds-vaio-pc-business-turns-tv-unit-into-subsidiary.html|website=PC World|accessdate=1 July 2014}}</ref><ref name="pcw-vaiorelaunch">{{cite web|title=Vaio brand relaunches in Japan|url=http://www.pcworld.com/article/2449432/vaio-brand-relaunches-in-worldwide.html|website=PC World|accessdate=1 July 2014}}</ref> In August 2015, Vaio announced plans to re-enter international markets, beginning with Brazil and the United States. Vaio CEO Yoshimi Ota stated that the company planned to focus more on high-end products in niche segments (such as the [[creative industries]]), as they felt Sony had focused too much on attempting to garner a large market share in its PC business. The Canvas Z tablet was released in the United States on 5 October 2015, through [[Microsoft Store]] and the Vaio website.<ref name=verge-vaiousa>{{cite web|title=VAIO is coming back to the USA|url=https://www.theverge.com/2015/8/19/9175627/vaio-computers-america-return|website=The Verge|publisher=Vox Media|accessdate=24 August 2015}}</ref><ref name=pcw-sonylessvaio>{{cite web|title=Sony-less Vaio PCs returning to the U.S. this fall|url=http://www.pcworld.com/article/2973028/hybrids/sony-less-vaio-pcs-returning-to-the-us-this-fall.html|website=PC World|publisher=IDG|accessdate=24 August 2015}}</ref>
+
+On 2 February 2016, Vaio announced that it would unveil a [[Windows 10 Mobile|Windows 10]] [[smartphone]].<ref name="cnet-vaiow10">{{cite web|title=Who still believes in Windows Phone? How about Vaio|url=http://www.cnet.com/products/vaio-windows-phone/|website=CNET|publisher=CBS Interactive|accessdate=2 February 2016}}</ref> Also that month, it was reported that Vaio was negotiating with [[Toshiba]] and [[Fujitsu Technology Solutions]] to consolidate their personal computer businesses together.<ref name="bloomberg-vaiotoshiba">{{cite news|title=Vaio Near Deal With Toshiba, Fujitsu to Form Japan PC Giant|url=https://www.bloomberg.com/news/articles/2016-02-15/vaio-nears-deal-with-toshiba-fujitsu-to-create-japan-pc-giant-ikoixv4l|accessdate=16 February 2016|work=Bloomberg}}</ref>
+
+==Products==
+Sony Corp. has expanded its use of the Vaio brand, which can now be found on [[laptop|notebooks]], [[subnotebook]]s, [[desktop computer|desktop]]s and [[Home theater PC|media centres]]. Network media solutions by Sony will also carry the Vaio brand.[[File:Sony VAIO VGN-FW590.jpg|thumb|[[Sony Vaio FW series|Vaio FW series]] (2009)]]Vaio notebooks are currently shipped with Microsoft [[Windows 10]] or [[Windows 10|Windows 10 Pro]].
+
+Beginning in mid-2005, a hidden partition on the [[hard drive]], accessible at [[Booting|boot]] via the [[BIOS]] or within Windows via a utility was used instead of recovery media for many Vaio laptops. Pressing [F10] at the Vaio logo during boot-up will cause the notebook to boot from the recovery partition; where the user has the choice of either running hardware diagnostics without affecting the installed system, or restoring (re-imaging) the hard drive to factory condition – an option that destroys all user installed applications and data). When first running a Vaio system out of the box, users are prompted to create a set of recovery DVDs, which will be required in case of [[hard disk failure]] and replacement with a new drive.  In cases where the system comes with Windows 7 64 bit pre-installed, the provided recovery media restores the system to Windows 7 32 or 64 bit. Therefore, the user must create their own recovery disks.
+
+Also included as part of the [[out-of-box experience]], are prompts to register at Club Vaio, an online community for Vaio owners and enthusiasts, which also provides automatic driver updates and [[technical support]] via email, along with exclusive [[desktop wallpaper]]s and [[sales promotion|promotional offer]]s. On recent models, the customer is also prompted to register the installed [[trial version]]s of [[Microsoft Office 2010]] and the [[antivirus software]] ([[Norton AntiVirus]] on older models, and [[McAfee VirusScan]] or TrendMicro on newer ones) upon initial boot.[[File:Sony VAIO P.jpg|thumb|[[Sony Vaio P series|Vaio P series]] (2009)]]Vaio computers come with components from companies such as [[Intel]] processors, [[Seagate Technology]], Hitachi, [[Fujitsu]] or [[Toshiba]] hard drives, [[Infineon]] or [[Elpida Memory|Elpida]] RAM, [[Atheros]] and Intel wireless chipsets, Sony (usually made by [[Hitachi, Ltd.|Hitachi]]) or [[Panasonic Corporation|Matsushita]] optical drives, Intel, [[NVIDIA]] or [[AMD]] graphics cards and Sony speakers. Recent laptops have been shipped with [[Qimonda]] RAM, HP speakers with Realtek High Definition Audio Systems, and optional [[Dolby]] Sound Room technology.
+
+As of 2013, Sony Vaio's range comprised seven products. The most basic were the E, T and S series while the high end model, the Z Series, has been discontinued. Sony also has a range of [[Tablet computer#Convertible, hybrid, 2-in-1|hybrid tablet computers]]], with models called Vaio Duo 11/13, Vaio Tab 11/20 and Vaio Fit multi-flip, as well as a [[desktop computer]] under the L series. Currently, models use [[Windows]] systems and [[Intel]] processors, as described above.<ref>{{Cite web|url= http://www.sony.co.uk/hub/vaio-laptops |title= Sony VAIO Laptops & Computers Discontinued {{!}} Sony UK |website= www.sony.co.uk |access-date= 2016-08-27 }}</ref>
+
+===Z Canvas===
+VAIO Corporation's first new computer is the '''Vaio Z Canvas''' [[2-in-1 PC]], which began sales in 23 September 2015 starting from $2,199 in the USA. With a 12.3-inch LCD WQXGA+ 2560 x 1704 IPS [[multi-touch]] display with digitizer [[digital pen|stylus (pen)]] capability, the Z Canvas looks similar in design to the Microsoft [[Surface Pro 3]], but comes with [[Windows 10 Pro]] and is available as a [[Microsoft Signature PC]]. It has an [[Intel Core i7|Intel® Core™ i7]] processor, an [[Intel Iris Graphics|Intel® Iris™ Pro Graphics]] 5200, a 2nd generation [[PCIe]] SSD with PCIe Gen.3 compatibility (up to 1&nbsp;TB) or [[SATA]]/M.2 for the 256&nbsp;GB model, and up to 16&nbsp;GB of memory.
+
+The Z Canvas is more focused on creative professionals as its target audience.  Graphic artists, illustrators, animators, etc. But VAIO plans to offer more traditional laptops and convertibles to the US market soon.<ref>http://us.vaio.com/</ref>
+
+===Smartphones===
+In February 2016, Vaio announced the [[Vaio Phone Biz]] which is a premium built mid-range [[Windows 10 Mobile]] device. This is Vaio's first Windows smartphone. In March 2017, Vaio announced Vaio Phone A, which have look of Vaio Phone Biz, but used [[Android (operating system)|Android]].
+
+==Technology==
+[[Image:Sony Taiwan VAIO Experience 2008 Press Conference VAIO Z the situational switch buttons.jpg|thumb|right|[[Sony Vaio Z series|Vaio Z series]] (2008) Keyboard and switch buttons]]
+Some Sony Vaio models come with Sony's proprietary [[XBRITE]] (known as ClearBright in Japan and the Asia-Pacific region) displays. The first model to introduce this feature was the Vaio TR series, which was also the first consumer product to utilize such technology. It is a combination of smooth screen, anti-reflection (AR) coating and high-efficiency lens sheet. Sony claims that the smooth finish provides a sharper screen display, the AR coating prevents external light from scattering when it hits the screen, and the high-efficiency lens sheet provides 1.5 times the brightness improvement over traditional LCD designs. Battery life is also extended through reduced usage of the LCD [[backlight]]. The technology was pioneered by Sony engineer Masaaki Nakagawa, who is in charge of the Vaio TR development.<ref>[http://vaio-online.sony.com/prod_info/pcg-tr5gp/interview/index_04.html Vaio TR Notebook Developers' Interview<!-- Bot generated title -->]</ref>
+
+The TX series, introduced in September 2005, was the first notebook to implement a LED back-lit screen, which provides lower power consumption and greater color reproduction. This technology has since been widely adopted by many other notebook manufacturers. The TX series was also the first to use a 16:9 aspect ratio screen with 1366x768 resolution.
+
+The successor to the TX series was the TZ series in May 2007. This new design featured an optional 32 or 64GB Solid State Drive (SSD) for rapid boot-up times, quicker application launches and greater durability. If selected, a 250&nbsp;GB Hard Drive could also have been included in place of the built-in CD/DVD drive to provide room for additional storage. For security, this model included a biometric fingerprint sensor and [[Trusted Platform Module]]. The TZ offered a built-in highly miniaturized Motion Eye camera built into the LCD panel for video conferencing. Additional features included the XBRITE LCD, integrated Wireless Wide Area Network (WWAN) technology and Bluetooth technology.
+
+The SZ series was the first to use switchable graphics – the motherboard contained an Intel GMCH (Graphics Memory Controller Hub) featuring its own in-built graphics controller (complete memory hub controller and graphics accelerator on the one die) and a separate NVIDIA graphics accelerator chipset directly interfaced with the GMCH. The GMCH could be used to reduce power consumption and extend battery life whereas the NVIDIA chipset would be used when greater graphics processing power was needed. A switch is used to toggle between the graphics options but required the user to preselect the mode to be used before the motherboard could initialize. The Z series has recently replaced the SZ series and does not require a restart of the system to change graphic modes on Windows Vista, which can be done "on the fly". This feature has subsequently been used by other manufacturers, including Apple, Asus and Alienware.
+
+The high-end AR Series was the first to incorporate a [[Blu-ray Disc]] [[burner]]{{dn|date=October 2017}}. This series was designed to be the epitome of [[High-definition video|high-definition]] products including a [[1080p]] capable [[WUXGA]] (1920 × 1200 pixels) screen, [[HDMI]] output and the aforementioned Blu-ray burner. The AR series also includes an illuminated logo below the screen. Blu-ray/HDMI capable models have been the subject of intense promotion since mid-2007, selling with a variety of bundled Blu-ray Discs. The AR series was subsequently replaced by the AW series, and in 2011, replaced by the F Series, which incorporates all of these features in a 16.4" 16:9 display.
+
+A selection of media centres were added to the Vaio range in 2006. These monitorless units (identified by a product code prefixed by VGX rather than VGN) are designed to form part of a home entertainment system. They typically take input from a TV tuner card, and output video via HDMI or [[composite video]] connection to an ideally high-definition television. So far this range includes the XL and TP lines. The VGX-TP line is visually unique, featuring a circular, 'biscuit-tin' style design with most features obscured behind panels, rather than the traditional [[set-top box]] design. Vaio has long since been revered as a household name in the world of mobile computing, with the range of notebooks offering premium Windows-based experiences.
+
+===VAIO Chime===
+
+The chime heard when you boot a '''VAIO''' computer are the [[DTMF]] notes when you dial '''V-A-I-O''' ('''8-2-4-6''') on your telephone keypad.
+
+===Bundled software===
+Sony has been criticized for loading its Vaio laptops with bloatware, or ineffective and unrequested software that supposedly allows the user to immediately use the laptop for multimedia purposes. This includes trial versions of [[Adobe Premiere Elements]] & [[Adobe Photoshop Elements]] with Vaio Media Gate and XMB. Sony now offers a "Fresh start" option in some regions with several of their business models.  With this option, the computer is shipped only with a basic Windows operating system and very little trial software already installed.
+
+The default webcam software in Vaio notebooks is [[ArcSoft]] [[WebCam Companion]]. It offers a set of special effects called Magic-i visual effects, through which users can enhance the images and videos taken through the webcam. It also features a face detection feature. Certain other Sony proprietary software such as Click to Disc Editor, Vaio Music Box, Vaio Movie Story, Vaio Media Plus are also included with recent models. Those shipped with ATI Radeon Video cards feature the Catalyst Control Centre, which enables the user to adjust the various video features such as brightness, contrast, resolution etc., and also enables connection to an external display.
+
+==See also==
+* [[Sony NEWS]]
+* [[Splashtop OS|Splashtop]] covers ''Vaio Quick Web Access''
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Vaio}}
+* [http://www.vaio.com Official Website (Japan)]
+* [http://us.vaio.com Official Website (United States)]
+* [http://esupport.sony.com/en/vaio Sony US VAIO Product Support]
+* [http://www.sony.co.uk/electronics/computers/vaio-laptops Sony VAIO UK]
+* [http://www.sony.co.in/productcategory/vaio-laptop Sony VAIO India]
+
+{{Sony Corp}}
+{{Vaio}}
+
+[[Category:Vaio| ]]
+[[Category:Sony products]]
+[[Category:Technology companies established in 1997]]
+[[Category:Technology companies established in 2014]]
+[[Category:1997 establishments in Japan]]
+[[Category:Companies based in Nagano Prefecture]]

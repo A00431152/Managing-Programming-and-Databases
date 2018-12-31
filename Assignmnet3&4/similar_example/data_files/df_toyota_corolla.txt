@@ -1,0 +1,339 @@
+Toyota Corolla
+{{Infobox automobile
+| name = Toyota Corolla
+| image = Toyota Corolla Altis ESport '2016 front.jpg
+| manufacturer = [[Toyota]]
+| production = 1966–present
+| class = [[Subcompact car]] (1966–1991)<br />[[Compact car]] (1991–present)
+| predecessor = [[Toyota Publica]]
+}}
+
+The '''Toyota Corolla''' is a line of [[subcompact car|subcompact]] and [[compact car]]s manufactured by [[Toyota]].  Introduced in 1966, the Corolla was the best-selling car worldwide by 1974 and has been one of the best-selling cars in the world since then. In 1997, the Corolla became the [[List of automobile sales by model|best selling nameplate in the world]], surpassing the [[Volkswagen Beetle]].<ref>{{cite web | url = http://www.toyota.com/vehicles/2006/corolla/key_features/history.html | archiveurl = https://web.archive.org/web/20060620034142/http://www.toyota.com/vehicles/2006/corolla/key_features/history.html | title = History of the Corolla | publisher = Toyota | location = USA | archivedate = 2006-06-20 | accessdate = 2013-03-20}}</ref> Toyota reached the milestone of 40 million Corollas sold over eleven generations in July 2013.<ref>{{cite news | url = http://www.autoblog.com/2013/09/07/toyota-says-you-might-have-40-millionth-corolla-ever-built/ | title = Toyota says you might have the 40-millionth Corolla ever built | author = Jeffrey N. Ross | work = Autoblog | date = 2013-09-07 | accessdate = 2013-09-07}}</ref> The series has undergone several major redesigns.
+
+The name ''[[Corolla (chaplet)|Corolla]]'' is part of Toyota's naming tradition of using names derived from the [[Toyota Crown]] for sedans, with ''"[[wikt:corolla|corolla]]"'' [[Latin]] for "small crown".<ref>{{cite book |last1=Mondale |first1=Walter |last2=Weston |first2=Mark |year=2002 |url=https://books.google.com/books?id=0ZdHULQZptYC&printsec=frontcover |title=Giants of Japan: The Lives of Japan's Most Influential Men and Women |location=New York City |publisher=Kodansha America |page=63 |isbn=1-56836-324-9 |quote=Since then many Toyota models have taken up the 'Crown' theme. 'Corona,' for example, is Latin for crown. 'Corolla' is Latin for small crown.}}</ref> The Corolla has always been exclusive in Japan to ''[[Toyota#Japan|Toyota Corolla Store]]'' locations, and manufactured in Japan with a twin, called the [[Toyota Sprinter]] until 2000. In Japan and much of the world, the hatchback companion since 2006 has been called the [[Toyota Auris]]. Prior to the Auris, Toyota used the Corolla name on the hatchback bodystyle in various international markets.
+
+Early models were mostly [[rear-wheel drive]], while later models have been [[front-wheel drive]]. [[Four-wheel drive]] versions have also been produced. The Corolla's traditional competitors have been the [[Nissan Sunny]], introduced the same year as the Corolla in Japan and the later [[Honda Civic]]. The Corolla's chassis designation code is "E", as described in Toyota's chassis and engine codes.
+
+==Production locations==
+[[File:Toyota Corolla production map.svg|thumb|right|Countries and territories where the Toyota Corolla has been produced. Red indicates Japan, blue indicates countries where the Corolla is currently produced, and green indicates countries where the Corolla was formerly produced.]]
+
+Corollas are manufactured in Japan at the original [[Toyota Takaoka Assembly Plant|Toyota Takaoka]] location built in 1966. Various production facilities have been built in [[Brazil]], ([[Indaiatuba]], [[São Paulo]]), [[Canada]] ([[Cambridge, Ontario]]), [[People's Republic of China|China]] ([[Tianjin]]), [[India]] ([[Bangalore]]), [[Pakistan]] ([[Karachi]]), [[South Africa]] ([[Durban]]), [[Taiwan]], [[Thailand]], [[Vietnam]], [[Turkey]] and [[Venezuela]]. Production has previously been carried out in [[Australia]] ([[Victoria (Australia)|Victoria]]) and the [[United Kingdom]] ([[Derbyshire]]).
+Production in the [[United States]] (at [[NUMMI]] in [[Fremont, California|Fremont]], California) ended in March 2010.<ref name="Bloomberg20090828">{{cite web | url = https://www.bloomberg.com/apps/news?pid=20601087&sid=aJlxuxndoOsM | title = Toyota Will Shut its California Plant in First Closure | accessdate = 2009-08-29 | date = 2009-08-28 | first1 = Alan | last1 = Ohnsman | first2 = Kae | last2 = Inoue | publisher = Bloomberg L.P.}}</ref> Production resumed the following year after the [[Toyota Motor Manufacturing Mississippi]] plant was opened in November 2011 in [[Blue Springs, Mississippi]].<ref name="Toyota - Our Business Description, TMMMS">{{cite web | url = http://www.toyota.com/about/our_business/engineering_and_manufacturing/tmmms/index.html | title = Toyota's Business Description, US plants | accessdate = 2013-02-20 | date = 2011-12-31 | author = Toyota Motor North America, Inc. | publisher = Toyota | location = USA}}</ref>
+
+== Alternative versions ==
+In Japan, the Corolla has always been exclusive to the Japanese retail sales chain called ''[[Toyota#Japan|Toyota Corolla Store]]'', which was previously established in 1961, known as ''Toyota Public Store'', selling the [[Toyota Publica]]. A [[badge engineered]] version called the '''[[Toyota Sprinter|Sprinter]]''' was introduced around the same time as the Corolla in Japan, and sold through a different Toyota Japan dealership sales channel known since 1966 as ''Toyota Auto Store.''
+
+There have been several models over the years, including the '''[[Toyota Corolla Ceres|Corolla Ceres]]''' (and similar Sprinter Marino) hardtop, '''[[Toyota AE86|Corolla Levin]]''' and '''[[Toyota AE86|Sprinter Trueno]]''' sports coupés and hatchbacks, and the Corolla FX hatchback, which became the '''Corolla RunX''', while the '''Sprinter''' became the '''[[Toyota Allex|Allex]], ''' with the introduction of the ZZE128 Corolla. The RunX and Allex was replaced by the '''[[Toyota Auris|Auris]]''' in 2006 (known only as '''Corolla''' in markets outside Japan, Europe and South Africa). A luxury version of the Auris installed with V6 engines was briefly sold at Japanese Toyota dealerships ''Toyota Store'' and ''Toyopet Store'' locations as the '''[[Toyota Blade|Blade]],''' which was discontinued in 2012.
+
+A [[compact MPV]] named the '''Corolla Verso''' has also been released in European markets. Its Japanese counterpart is the '''[[Toyota Corolla Spacio|Corolla Spacio]]''', which has been discontinued as of the 10th generation. The '''[[Toyota Corolla Rumion|Corolla Rumion]]''' is also sold in the US-market as the [[Scion xB]].
+
+The [[Toyota Matrix|Corolla Matrix]], better known just as the Matrix, shares the E120 and E140 platforms, and is considered the hatchback/[[Crossover (automobile)|sport wagon]] counterpart of the North American Corolla sedan, as the European/Australasian Corolla hatchback is not sold there. Toyota frequently combines the sales figures of the Corolla sedan and Matrix. The [[Pontiac Vibe]], which is the [[General Motors]] badged version of the Matrix, shares the Corolla platform. The Pontiac Vibe was exported from Fremont, California to the Japanese market where it was sold as the '''Toyota Voltz'''.<ref>{{cite web | url = http://usnews.rankingsandreviews.com/cars-trucks/daily-news/080702-Toyota-Corolla-Now-America-s-Best-Selling-Vehicle-/ | title = Toyota Corolla Now America's Best-Selling Vehicle | publisher = U.S. News Rankings and Reviews | date = 2008-07-02 | accessdate = 2010-12-14}}</ref>
+
+Over many years, there have been [[badge engineering|rebadged]] versions of the Corolla, sold by [[General Motors]], including the [[Holden Nova]] in Australia during the early 1990s, and the Sprinter-based [[Chevrolet Nova]], [[Chevrolet Prizm]], and [[Geo Prizm]] (in the United States). The Corolla liftback (TE72) of [[Toyota Australia]] was badged as simply the '''T-18'''. The five-door liftback was sold with the '''Corolla Seca''' name in Australia and the nameplate survived on successive five-door models.
+
+The [[Daihatsu Charmant]] was produced from the E30 to the E70 series.
+
+The [[Toyota Tercel|Tercel]] was a front wheel drive car, first introduced in 1980 at Japanese Toyota dealerships called ''Toyota Corolla Store'', and was called the '''Corolla Tercel''' then, and later given its own name in 1984. The Tercel platform was also used for the [[Toyota Tercel#L20|Corolla II]] hatchback in Japan.
+
+== {{anchor|E10}} First generation (E10; 1966–1970) ==
+{{main article|Toyota Corolla (E10)}}
+
+[[File:1968 Toyota Corolla 1100 Deluxe.jpg|thumb|left|First-generation Toyota Corolla]]
+[[File:1968 Toyota Corolla 1100 Deluxe rear.jpg|thumb|right|First-generation Toyota Corolla]]
+
+The first Corolla generation was introduced in October 1966 with the new 1100 cc [[Toyota K engine|K]] [[pushrod]] engine. The [[Toyota Sprinter|Corolla Sprinter]] was introduced as the fastback version in 1968, and exclusive to a Toyota Japan dealership retail outlet called ''Toyota Auto Store''.
+
+{{clear}}
+
+== {{anchor|E20}} Second generation (E20; 1970–1974) ==
+{{main article|Toyota Corolla (E20)}}
+
+[[File:Toyota Corolla E20 in Vientiane.JPG|thumb|left|Second-generation Toyota Corolla]]
+[[File:1972 Toyota Corolla (8864359883).jpg|thumb|right|Second-generation Toyota Corolla]]
+
+In May 1970, the E20 was restyled with a more rounded body. The now mutually exclusive Corolla and Sprinter names were used to differentiate between two slightly different treatments of sheet metal and trim. The Corolla Levin and Sprinter Trueno names were introduced as the enhanced performance version of the Corolla and Sprinter respectively when a [[DOHC|double overhead camshaft]] version of the [[Toyota T engine#2T-G|2T]] engine was introduced in March 1972 (TE27).
+
+In September 1970, the 1400&nbsp;cc T and 1600&nbsp;cc 2T [[OHV]] engines were added to the range.<ref>{{cite journal |url=http://www.caranddriver.com/reviews/1971-toyota-corolla-1600-archived-instrumented-test |title=1971 Toyota Corolla 1600 - Archived Instrumented Test - Car Reviews |journal=Car and Driver |location=US |date=February 1971 |access-date=2017-03-04}}</ref>
+
+In Australia, only the 3K powered 2-door KE20 was available as a sedan and wagon / panelvan. The brakes were single system with no booster, solid discs on the front and rear drums. Front sway bar but no rear sway bar. Parts are not compatible with later models.
+
+In NZ, the 4-door KE20 was available.
+
+Most models stopped production in July 1974 but the KE26 wagon and van were still marketed in Japan alongside the new 30-series, until production finally ended in May 1978.
+
+{{clear}}
+
+== {{anchor|E30|E40|E50|E60}} Third generation (E30, E40, E50, E60; 1974–1979) ==
+{{main article|Toyota Corolla (E30)}}
+
+[[File:1978-1980 Toyota Corolla (KE55R) SE sedan 01.jpg|thumb|left|Third-generation Toyota Corolla]]
+[[File:1981 Toyota Corolla (KE55R) CS sedan (2011-12-05) 02.jpg|thumb|right|Third-generation Toyota Corolla]]
+
+April 1974 brought rounder, bigger and heavier Corollas and Sprinters. The range was rounded out with the addition of a two-door [[liftback]]. The Corollas were given E30 codes while the Sprinters were given E40 codes. A face-lift in March 1976 saw most Corolla E30 models replaced by equivalent E50 models and most Sprinter E40 models were replaced by equivalent E60 models. The E30 Corolla was fitted with retracting front seat belts.
+
+In Australia, KE3x was available as 4 door sedan, 2 door sedan, 2 door panel van (KE36) and 4 door wagon (KE38). All had 3K engines and K40 manual gearbox or 3 speed Auto. Sprinters were not available. Later KE5x models were available as 4 door sedan or 2 door coupe (A true pillar-less design) with 4K engine. The KE55 was 50&nbsp;kg heavier due to the addition of side impact protection in the doors, but due to a change in the body metal and seam sealing they are prone to rust. Later KE55 also used plastic ended bumper bars as opposed to the all chrome bumpers of the previous models, but included a rear sway bar for the first time.
+
+{{clear}}
+
+== {{anchor|E70}} Fourth generation (E70; 1979–1983) ==
+{{main article|Toyota Corolla (E70)}}
+
+[[File:Toyota Corolla E70 4 door sedan.jpg|thumb|left|Fourth-generation Toyota Corolla]]
+[[File:1982 Toyota Corolla (KE70) SE sedan (2015-07-14) 02.jpg|thumb|right|Fourth-generation Toyota Corolla]]
+
+A major restyle in March 1979 brought a square edged design. The Corollas had a simpler treatment of the grill, headlights and taillights while the Sprinter used a slightly more complex, sculptured treatment. The new A series engines were added to the range as a running change. This was the last model to use the K "hicam" and T series engines. Fuel injection was introduced as an extra cost option on Japanese market vehicles.
+
+{{clear}}
+
+== {{anchor|E80}} Fifth generation (E80; 1983–1987) ==
+{{main article|Toyota Corolla (E80)}}
+
+[[File:1987 Toyota Corolla (AE82) CS sedan (2015-11-11) 01.jpg|thumb|left|Fifth-generation Toyota Corolla]]
+[[File:1985 Toyota Corolla 1.3 GL (14395370647).jpg|thumb|right|Fifth-generation Toyota Corolla]]
+
+A sloping front [[hood (vehicle)|bonnet]] and a contemporary sharp-edged, no-frills style was brought in during May 1983. The new 1839 cc 1C diesel engine was added to the range with the E80 Series. From 1985, re-badged E80 Sprinters were sold in the U.S. as the fifth-generation [[Chevrolet Nova#Fifth generation|Chevrolet Nova]]. Fuel injection was introduced as an extra cost option internationally.
+
+Most models now used the [[front wheel drive]] layout except the [[AE85]] and [[AE86]], which were to be the last Corollas offered in the [[rear wheel drive]] or FR layout. The AE85 and [[AE86]] chassis codes were also used for the [[Toyota Sprinter|Sprinter]] (including the Sprinter Trueno). The Sprinter was nearly identical to the Corolla, differing only by minor body styling changes such as [[pop-up headlights]].
+
+{{clear}}
+
+== {{anchor|E90}} Sixth generation (E90; 1987–1991) ==
+{{main article|Toyota Corolla (E90)}}
+
+[[File:1989-1991 Toyota Corolla (AE92) CS sedan 05.jpg|thumb|left|Sixth-generation Toyota Corolla]]
+[[File:1991-1992 Toyota Corolla (AE94) CSi sedan (2011-07-17).jpg|thumb|right|Sixth-generation Toyota Corolla]]
+
+A somewhat more rounded and aerodynamic style was used for the E90 introduced in May 1987. Overall this generation has a more refined feel than older Corollas and other older subcompacts. Most models were now [[front wheel drive]], along with a few [[4WD]] [[All-Trac]] models. Many engines were used on a wide array of trim levels and models, ranging from the 1.3-liter [[Toyota E engine#2E|2E]] to the {{convert|165|hp}} supercharged [[Toyota A engine#4A-GZE|4A-GZE]]. In the US, the E90 [[Toyota Sprinter|Sprinter]] was built and sold as both the Toyota Sprinter and the [[Geo Prizm]]. In Australia, the E90 Corolla was built and sold as both the Toyota Corolla and the [[Holden Nova]].
+
+{{clear}}
+
+== {{anchor|E100}} Seventh generation (E100; 1991–1995) ==
+{{main article|Toyota Corolla (E100)}}
+
+[[File:1996-1999 Toyota Corolla (AE101R) CSi sedan (2011-06-15) 01.jpg|thumb|left|Seventh-generation Toyota Corolla]]
+[[File:1998 Toyota Corolla (AE101R) CSi sedan (2016-01-04) 02 (cropped).jpg|thumb|right|Seventh-generation Toyota Corolla]]
+
+In June 1991 Corollas received a redesign to be larger, heavier, and have the completely rounded, aerodynamic shape of the 1990s. In the United States, the somewhat larger Corolla was now in the compact class, rather than subcompact, and the coupé was still available in some markets, known as the AE101 Corolla Levin. Carburetors were mostly retired with this generation.
+
+{{clear}}
+
+== {{anchor|E110}} Eighth generation (E110; 1995–2000) ==
+{{main article|Toyota Corolla (E110)}}
+[[File:2000 Toyota Corolla (AE112R) Conquest sedan (2015-07-03) 01.jpg|thumb|left|Eighth-generation Toyota Corolla (Europe and Australasia)]]
+[[File:2000 Toyota Corolla (AE112R) Ultima sedan (2015-06-15) 02.jpg|thumb|right|Eighth-generation Toyota Corolla (Europe and Australasia)]]
+[[File:1995-1997 Toyota Corolla.jpg|thumb|left|Eighth-generation Toyota Corolla (Japan, Asia and South America)]]
+[[File:Toyota Corolla E110 sedan rear.jpg|thumb|right|Eighth-generation Toyota Corolla (Japan, Asia and South America)]]
+[[File:01-02 Toyota Corolla CE.jpg|thumb|left|Eighth-generation Toyota Corolla (North America)]]
+[[File:2001 Toyota Corolla S in silver rear.jpg|thumb|right|Eighth-generation Toyota Corolla (North America)]]
+Production of the E110 Corolla started in May 1995. The design of the car was slightly altered throughout but retained a look similar to that of the E100. In 1998, for the first time, some non-Japanese Corollas received the new [[Toyota ZZ engine#1ZZ-FE|1ZZ-FE]] engine.{{citation needed|date=April 2012}} The new engine was the first in a Toyota to have an aluminum engine block and aluminum cylinder heads, which made this generation lighter than the E100 Corolla. The model range began to change as Toyota decided styling differences would improve sales in different markets.
+
+This generation was delayed in North America until mid-1997 (US 1998 model year), where it had unique front and rear styling.{{citation needed|date=April 2012}} Europe and [[Australasia]] received versions of their own as well. In Pakistan, this model was halted in November 1998, while production was closed in March 2002.
+
+{{clear}}
+
+== {{anchor|E120|E130}} Ninth generation (E120, E130; 2000–2007) ==
+{{main article|Toyota Corolla (E120)}}
+
+[[File:2003-2004 Toyota Corolla (ZZE122R) Conquest sedan 01.jpg|thumb|left|Ninth-generation Toyota Corolla (Japan, Europe and Australasia)]]
+[[File:2003-2004 Toyota Corolla (ZZE122R) Ascent sedan 02.jpg|thumb|right|Ninth-generation Toyota Corolla (Japan, Europe and Australasia)]]
+[[File:2005-2007 Toyota Corolla.jpg|thumb|left|Ninth-generation Toyota Corolla (Americas and parts of Asia)]]
+[[File:2006 Toyota Corolla Altis 1.6E VVT-i sedan (2016-01-05) 02.jpg|thumb|right|Ninth-generation Toyota Corolla (Americas and parts of Asia)]]
+
+In August 2000, the ninth-generation Corolla was introduced in Japan, with edgier styling and more technology to bring the nameplate into the 21st century. In 2002, the Corolla was given a refreshed facelift and it grew in length with similar body panels and interior. The facelifted Corolla since then is called '''Corolla Altis''' in the [[ASEAN]] region. The station wagon model is called the '''Corolla Fielder''' in Japan. The North American release was delayed until March 2002 (for the 2003 model year).
+
+Production in Japan ended in January 2007 (for Corolla Runx and Allex)<ref name = "75 Years of Toyota, Toyota Motor East Japan">{{cite web |url=http://www.toyota-global.com/company/history_of_toyota/75years/data/automotive_business/production/production/japan/general_status/toyota_motor_east_japan.html |title=Affiliates (Toyota wholly-owned subsidiaries)-Toyota Motor East Japan, Inc. |publisher=Toyota |location=Japan |year=2012 |accessdate=2014-07-21}}</ref> but production in North America continued until October 2008.{{citation needed|date=June 2016}}
+
+{{clear}}
+
+== {{anchor|E140|E150}} Tenth generation (2006-2013) ==
+{{main article|Toyota Corolla (E140)}}
+
+[[File:2006-2008 Toyota Corolla Axio.jpg|thumb|left|Tenth-generation Toyota Corolla (Japan)]]
+[[File:2006-2008 Toyota Corolla Axio rear.jpg|thumb|right|Tenth-generation Toyota Corolla (Japan)]]
+[[File:2013 Toyota Corolla (ZRE152R) Ascent Sport sedan (2015-08-07) 01.jpg|thumb|left|Tenth-generation Toyota Corolla (international)]]
+[[File:2010-2011 Toyota Corolla (ZRE152R MY11) Ascent sedan (2011-04-28) 02.jpg|thumb|right|Tenth-generation Toyota Corolla (international)]]
+
+=== Japan (E140 narrow; 2006–2012) ===
+The tenth generation of the E140 Corolla was introduced in October 2006. Japanese markets called the sedan '''Corolla Axio'''. The station wagon retained the '''Corolla Fielder''' name.
+
+=== International (E140/E150 wide; 2007–2013) ===
+For international markets, a wider version of the E140 was sold with different styling, with the [[ASEAN]] markets retaining the '''Corolla Altis''' branding.
+
+{{clear}}
+
+== Eleventh generation (2012–present) ==
+
+=== {{anchor|E160}} Japan (E160; 2012–present) ===
+{{main article|Toyota Corolla (E160)}}
+
+[[File:2013 Toyota Corolla-Axio-Hybrid 01.jpg|thumb|left|Eleventh-generation Toyota Corolla (Japan)]]
+[[File:2013 Toyota Corolla-Axio-Hybrid 02.jpg|thumb|right|Eleventh-generation Toyota Corolla (Japan)]]
+
+The eleventh generation of the Corolla went on sale in Japan in May 2012.<ref>{{cite press release | url = http://www2.toyota.co.jp/en/news/12/05/0511.html | title = TMC Launches Redesigned Corolla Series in Japan | publisher = Toyota | location = Japan | date = 2012-05-11 | accessdate = 2013-06-08}}</ref> The sedan is named the '''Corolla Axio''' while the wagon is called the '''Corolla Fielder'''. In Japan, both are made by a Toyota subsidiary, [[Central Motors]], in [[Miyagi prefecture]], Japan.<ref>{{cite news | url = http://www.wltz.com/story/18308852/toyota-launches-new-corolla-models | title = Toyota launches new Corolla models | publisher = wltz.com | date = 2012-05-11 | accessdate = 2013-06-08}}</ref> The redesigned model has slightly smaller exterior dimensions and is easier to drive in narrow alleys and parking lots for the targeted elderly drivers.<ref>{{cite web | url = http://tv.ibtimes.com/toyota-launches-new-models-recovering-northern-japan-expects-soaring-profits-4307 | title = Toyota Launches New Models in Recovering Northern Japan, Expects Soaring Profits | date = 2012-05-11 | at = 1 min 23 seconds | work = International Business Times | last = Menton | first = Jessica}}</ref>
+
+The new Corolla Axio is available with either a 1.3-liter ''[[Toyota NR engine|1NR-FE]]'' or 1.5-liter ''[[Toyota NZ engine|1NZ-FE]]'' four cylinder engines; front or all-wheel drive. Both 5-speed manual and CVT transmissions are offered. The 1.3-liter engine and all-wheel drive variants are available only with the CVT transmission.<ref>{{cite web | url = http://toyota.jp/corollaaxio/ | title = カローラ アクシオ |trans_title= Corolla Axio | publisher = Toyota | location = Japan | accessdate = 2013-06-08}}</ref> The Corolla Fielder is available with 1.5-liter ''1NZ-FE'' or 1.8-liter ''[[Toyota ZR engine|2ZR-FAE]]'' four cylinder engines mated with a CVT transmission. The 1.5-liter is available with front and all-wheel drive, the 1.8-liter is offered only in front-wheel drive.<ref>{{cite web | url = http://toyota.jp/corollafielder | title = カローラ フィールダー |trans_title=Corolla Fielder | publisher = Toyota | location = Japan | accessdate = 2013-06-08}}</ref>
+Since 2015 there's a new engine 2NR-FKE, with its VVT-ie technology.
+
+Toyota released [[hybrid electric vehicle|hybrid]] versions of the Corolla Axio sedan and Corolla Fielder station wagon for the Japanese market in August 2013. Both cars are equipped with a 1.5-liter hybrid system similar to the one used in the [[Toyota Prius c]], with a fuel efficiency of {{Convert|3.03|L/100km|abbr=on|1}} under the [[Fuel economy in automobiles#JC08|JC08 test cycle]]. Toyota's monthly sales target for Japan is 1,000 units of the Corolla Axio hybrid and 1,500 units of the Corolla Fielder hybrid.<ref>{{cite web | url = http://www.greencarcongress.com/2013/08/corolla-20130806.html | title = Toyota launches Corolla hybrid models in Japan | author = Toyota News Japan | publisher = [[Green Car Congress]] | date = 2013-08-06 | accessdate = 2013-08-06}}</ref>
+
+=== {{anchor|E170}} International (E170; 2013–present) ===
+{{main article|Toyota Corolla (E170)}}
+{{Multiple image | align = left | direction = vertical | width =
+| image1 = Toyota Corolla Style (2016 European version).jpg
+| image2 = 2016 Toyota Corolla (ZRE172R) Ascent sedan (2017-07-15) 02.jpg
+| caption2 = Eleventh-generation Toyota Corolla (international)
+}}
+{{Multiple image | align = right | direction = vertical | width =
+| image1 = 2014 Toyota Corolla S in Ontario, Canada.jpg
+| image2 = 2014 Toyota Corolla 1.8 LE (ZRE172), rear right.jpg
+| caption2 = Eleventh-generation Toyota Corolla (North America)
+}}
+
+International markets continued on with the E140/E150 until at least 2013 when the E170 model arrived. The E170 is larger and substantially different from the Japanese E160, with a unique body and interior. Two basic front and rear styling treatments are fitted to the E170: a North American version that debuted first and a more conservative design for all other markets that debuted later in 2013.
+
+In 2017, Toyota released a hatchback version in the US called the Corolla iM, a rebadged second generation facelifted [[Toyota Auris#E180|Auris]].
+
+{{clear}}
+
+== Sales ==
+{| class=wikitable style="font-size:97%"
+|-
+!Calendar year
+!US!!Canada!!Australia!!Europe
+|-
+| 2000
+| 230,156<ref>{{cite web |url=http://www.theautochannel.com/news/2002/01/03/034042.html |title=Toyota Sets Sales Record for Sixth Year in a Row |publisher=Theautochannel.com |date=2004-11-17 |accessdate=2009-07-14}}</ref>
+|
+| 30,576
+|
+|-
+| 2001
+| 245,023
+|
+| 30,813
+|
+|-
+| 2002
+| 254,360<ref>{{cite web |url=http://www.theautochannel.com/news/2004/01/05/175869.html |title=Toyota Announces Best Sales Year in Its 46-Year History, Breaks Sales Record for Eighth Year in a Row |publisher=Theautochannel.com |date=2004-11-17 |accessdate=2009-07-14}}</ref>
+|
+| 34,948
+|
+|-
+| 2003
+| 325,477
+|
+| 36,128
+|
+|-
+| 2004
+| 333,161<ref>{{cite web |url=http://www.theautochannel.com/news/2006/01/04/205039.html |title=Toyota Reports 2005 and December Sales |publisher=Theautochannel.com |accessdate=2009-07-14}}</ref>
+|
+| 39,053
+|
+|-
+| 2005
+| 341,290
+|
+| 46,415
+|
+|-
+| 2006
+| 387,388<ref>{{cite web |url=http://www.theautochannel.com/news/2008/01/03/074293.html |title=Toyota Reports 2007 and December Sales |publisher=Theautochannel.com |date=2008-01-03 |accessdate=2009-07-14}}</ref>
+|
+| 46,256
+|
+|-
+| 2007
+| 371,390
+|
+| 47,792<ref>{{cite web |url=http://www.fcai.com.au/news/news/all/all/152/2007-a-milestone-year-for-motor-vehicle-sales- |title=2007: A milestone year for motor vehicle sales |publisher=Federal Chamber of Automotive Industries |location=Australia |date=2008-01-07 |accessdate=2012-04-15}}</ref>
+| 85,407<ref>{{cite press release |url=http://newsroom.toyota.eu/pressrelease/2087//toyota-achieves-11th-consecutive-record-year-sales-europe?searchresult |title=Toyota Achieves 11th Consecutive Record Year of Sales in Europe |publisher=Toyota |location=Europe |date=2008-01-16 |access-date=2016-03-25}}</ref>
+|-
+| 2008
+| 351,007<ref>{{cite web |url=http://www.theautochannel.com/news/2009/01/05/346214.html |title=Toyota Reports 2008 and December Sales |publisher=Theautochannel.com |date=2009-01-05 |accessdate=2009-07-14}}</ref>
+| 57,736<ref>{{cite press release |url=http://media.toyota.ca/pr/tci/en/DecemberSalesReleaseEN.aspx |title=Canadian-built models drive Toyota Canada Inc. to all-time record year in 2008 Drivers embrace quality, fuel-efficiency and safety, setting 2008 Toyota and Lexus records |publisher=Toyota |location=Canada |accessdate=2012-04-15}}</ref>
+| 47,901
+| 119,120<ref>{{cite press release |url=http://newsroom.toyota.eu/pressrelease/2115//toyota-motor-europe-announces-2008-sales-production-results?searchresult |title=Toyota Motor Europe announces 2008 sales and production results |publisher=Toyota |location=Europe |date=2009-01-14 |access-date=2016-03-25}}</ref>
+|-
+| 2009
+| 296,874<ref>{{cite web |url=http://www.theautochannel.com/news/2010/01/05/460606.html |title=Toyota Reports December 2009 and Year 2009 Sales |publisher=Theautochannel.com |date=2010-01-05 |accessdate=2010-07-12}}</ref>
+| 53,933<ref name="toyota1">{{cite press release |url=http://media.toyota.ca/pr/tci/en/toyota-canada-inc-reports-december-190039.aspx |title=Toyota Canada Inc. reports December and full year 2010 sales |publisher=Toyota |location=Canada |date=2011-01-04 |accessdate=2012-04-15}}</ref>
+| 39,013<ref>{{cite web |url=http://www.fcai.com.au/news/news/all/all/234/new-vehicle-market-ends-strong-year-with-record-december- |title=New Vehicle Market Ends Strong Year With Record December |publisher=Federal Chamber of Automotive Industries |location=Australia |date=2010-01-06 |accessdate=2012-04-15}}</ref>
+|
+|-
+| 2010
+| 266,082<ref>{{cite press release |url=http://pressroom.toyota.com/article_display.cfm?article_id=2832 |title=Toyota Reports December and 2010 Sales |publisher=Toyota |location=USA |date=2011-01-04 |accessdate=2012-04-15}}</ref>
+| 38,680<ref name="toyota1"/>
+| 41,632<ref>{{cite web |url=http://www.fcai.com.au/news/news/all/all/257/new-vehicle-sales-top-the-magic-million |title=New Vehicle Sales Top The Magic Million |publisher=Federal Chamber of Automotive Industries |location=Australia |date=2011-01-06 |accessdate=2012-04-15}}</ref>
+| 51,189<ref>{{cite press release |url=http://newsroom.toyota.eu/pressrelease/1240//2010-sales-production-results-toyota-motor-europe?searchresult |title=2010 Sales and Production Results for Toyota Motor Europe |publisher=Toyota |location=Europe |date=2011-01-13 |access-date=2016-03-25}}</ref>
+|-
+| 2011
+| 240,259<ref>{{cite press release |url=http://pressroom.toyota.com/releases/toyota+reports+december+2011+year-end+sales.htm |title=Toyota Reports December 2011 and Year-End Sales |publisher=Toyota |location=USA |date=2012-01-04 |accessdate=2012-04-15}}</ref>
+| 36,663<ref>{{cite press release |url=http://media.toyota.ca/pr/tci/en/toyota-brand-finishes-2011-with-221388.aspx |title=Toyota brand finishes 2011 with six straight months of market share growth |publisher=Toyota |location=Canada |date=2012-01-04 |accessdate=2012-04-15}}</ref>
+| 36,087<ref>{{cite web |url=http://www.fcai.com.au/news/news/all/all/292/new-vehicle-sales-top-the-million-mark-in-2011 |title=New Vehicle Sales Top the Million Mark in 2011 |publisher=Federal Chamber of Automotive Industries |location=Australia |date=2012-01-05 |accessdate=2012-04-15}}</ref>
+| 69,889<ref>{{cite press release |url=http://newsroom.toyota.eu/pressrelease/1006//toyota-motor-europe-posts-year-year-sales-increase?searchresult |title=Toyota Motor Europe posts year-on-year sales increase despite supply disruptions |publisher=Toyota |location=Europe |date=2012-01-09 |access-date=2016-03-25}}</ref>
+|-
+| 2012
+| 290,947<ref>{{cite press release |url=http://pressroom.toyota.com/releases/december+2012+sales+chart.htm |title=December 2012 and Year-End Sales Chart |publisher=Toyota |location=USA |date=2013-01-03 |accessdate=2013-03-20}}</ref>
+| 40,906<ref>{{cite press release |url=http://media.toyota.ca/pr/tci/en/annual-records-for-hybrid-and-242384.aspx |title=Annual records for hybrid and truck sales power Toyota Canada Inc. to 18.4% year-over-year increase |publisher=Toyota |location=Canada |date=2013-01-03 |access-date=2016-03-25}}</ref>
+| 38,799<ref>{{Cite press release |url=https://www.pressroom.com.au/press_release_detail.asp?clientID=2&prID=4904&navSectionID=2 |title=Toyota drives industry to record sales |publisher=Toyota |location=Australia |date=2013-01-04 |access-date=2016-03-25}}</ref>
+| 63,481<ref>{{cite press release |url=http://newsroom.toyota.eu/pressrelease/3151//toyota-motor-europe-2012-sales-up-2-15583?searchresult |title=Toyota Motor Europe 2012 sales up 2% (+15,583 units) in a sharply declining market |publisher=Toyota |location=Europe |date=2013-01-10 |access-date=2016-03-25}}</ref>
+|-
+| 2013
+| 302,180<ref>{{cite press release |url=http://corporatenews.pressroom.toyota.com/releases/tms+december+2013+sales+chart.htm |title=December 2013 and Year-End Sales Chart |publisher=Toyota |location=USA |date=2014-01-03 |accessdate=2014-01-09}}</ref>
+| 44,449<ref>{{Cite press release |url=http://media.toyota.ca/pr/tci/en/best-ever-year-for-lexus-helps-249777.aspx |title=Best-ever year for Lexus helps Toyota Canada Inc. increase sales by 1.7% in 2013 |publisher=Toyota |location=Canada |date=2014-01-03 |access-date=2016-03-25}}</ref>
+| 43,498<ref>{{cite press release |url=https://www.pressroom.com.au/press_release_detail.asp?clientID=2&prID=5198&navSectionID=2 |title=Toyota, Corolla and Camry take sales honours |publisher=Toyota |location=Australia |date=2014-01-06 |access-date=2016-03-25}}</ref>
+| 67,987<ref>{{cite press release |url=http://newsroom.toyota.eu/pressrelease/3756//record-hybrid-sales-push-toyota-motor-europe-market?searchresult |title=Record hybrid sales push Toyota Motor Europe market share and volume gains |publisher=Toyota |location=Europe |date=2014-01-14 |access-date=2016-03-25}}</ref>
+|-
+|2014
+|339,498<ref>{{cite press release |url=http://pressroom.toyota.com/releases/tms+december+2014+sales+chart.htm |title=December 2014 and Year-End Sales Chart |publisher=Toyota |location=USA |date=2015-01-05 |accessdate=2015-01-06}}</ref>
+| 48,881<ref>{{cite press release |url=http://media.toyota.ca/releases/tci-2014-sales-up-2-8-led-by-record-truck-and-lexus-sales |title=TCI 2014 Sales Up 2.8% Led By Record Truck And Lexus Sales |publisher=Toyota |location=Canada |date=2015-01-05 |access-date=2016-03-25}}</ref>
+| 43,735<ref>{{cite press release |url=https://www.pressroom.com.au/press_release_detail.asp?clientID=2&prID=8438&navSectionID=2 |title=Toyota makes it an even dozen |publisher=Toyota |location=Australia |date=2015-01-06 |access-date=2016-03-25}}</ref>
+| 83,301<ref>{{cite press release |url=http://newsroom.toyota.eu/pressrelease/4183//fourth-consecutive-year-sales-growth-toyota-motor-europe?searchresult |title=Fourth consecutive year of sales growth for Toyota Motor Europe in 2014 with record hybrid sales |publisher=Toyota |location=Europe |date=2015-01-14 |access-date=2016-03-25}}</ref>
+|-
+| 2015
+| 363,332<ref>{{cite press release |url=http://pressroom.toyota.com/releases/tms+december+2015+sales+chart.htm |title=December 2015 and Year-End Sales Chart |publisher=Toyota |location=USA |date=2016-01-05 |accessdate=2016-01-18}}</ref>
+| 47,199<ref>{{cite press release |url=http://media.toyota.ca/releases/toyota-canada-inc-reports-december-and-year-end-2015-sales-results |title=Toyota Canada Inc. Reports December and Year-End 2015 Sales Results |publisher=Toyota |location=Canada |date=2015-01-05 |access-date=2016-03-25}}</ref>
+| 42,073<ref>{{cite press release |url=https://www.pressroom.com.au/press_release_detail.asp?clientID=2&prID=9663&navSectionID=2 |title=Toyota's lucky streak: 13 years as top-selling brand |publisher=Toyota |location=Australia |date=2016-01-06 |access-date=2016-03-25}}</ref>
+| 69,194<ref>{{cite press release |url=http://newsroom.toyota.eu/newsrelease.do;jsessionid=F81AF58B00F9FA0BDA56CE74A94AC313?&id=4828&allImage=1&teaser=toyota-motor-europe-tme-sold-874000-vehicles-2015&mid=1 |title=Toyota Motor Europe (TME) sold 874,000 vehicles in 2015 with record 209,000 hybrid sales |publisher=Toyota |location=Europe |date=2016-01-14 |access-date=2016-03-25}}</ref>
+|-
+|2016 (Including Corolla/Scion IM)
+| 360,483<ref>{{cite press release |url=http://corporatenews.pressroom.toyota.com/releases/toyota-lexus-december-2016-sales-chart.htm |title=December 2016 and Year-End Sales Chart |publisher=Toyota |location=USA |date=2017-01-05 |accessdate=2017-01-05}}</ref>
+| 45,626<ref>{{cite press release |url=http://media.toyota.ca/releases/record-hybrid-sales-lead-4-2-overall-sales-growth-for-toyota-canada-inc-in-2016 |title=Record Hybrid Sales Lead 4.2% Overall Sales Growth for Toyota Canada Inc. in 2016 |publisher=Toyota |location=Canada |date=2017-01-04 |access-date=2017-04-30}}</ref>
+| 40,330<ref>{{cite press release |url=https://toyota.pressroom.com.au/press_release_detail.asp?clientID=2&prID=9986&navSectionID=2 |title=Toyota Hilux: Australia's best-selling car |publisher=Toyota |location=Australia |date=2017-01-05 |access-date=2017-04-30}}</ref>
+| 67,876<ref>{{cite press release |url=http://newsroom.toyota.eu/toyota-motor-europe-tme-sold-928500-vehicles-in-2016-with-best-ever-sales-for-hybrids-and-lexus/ |title=Toyota Motor Europe (TME) sold 928,500 vehicles in 2016 with best-ever sales for Hybrids and Lexus |publisher=Toyota |location=Europe |date=2017-01-06 |access-date=2017-04-30}}</ref>
+|}
+
+== See also ==
+* [[Toyota Sprinter]]: The Corolla's twin for Japanese market with slightly different body panels
+* [[Toyota AE86]]
+* [[Toyota Corolla Levin and Toyota Sprinter Trueno]]: Sports model of Corolla and Sprinter
+* [[Chevrolet Nova]]: Chevrolet (GM brand) [[badge engineering|re-badged]] Sprinter (USA) 1985–1988
+* [[Geo Prizm]]: Geo (GM brand) [[badge engineering|re-badged]] Sprinter (USA) 1989–1997
+* [[Chevrolet Prizm]]: Chevrolet (GM brand) 1998–2002
+* [[Holden Nova]]: Holden (GM brand) [[badge engineering|re-badged]] Corolla (Australia) 1989–1996
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+{{Commons category}}
+* [http://www.toyota-global.com/showroom/vehicle_heritage/corolla/ Toyota Global Site {{!}} Vehicle Heritage · Corolla]
+* [http://blog.toyota.co.uk/toyota-corolla-foundations-of-a-world-beater blog.toyota.co.uk : Vehicles : Corolla History] (official site)
+{{Toyota cars}}
+{{Modern North American Toyota vehicles}}
+
+[[Category:Toyota Corolla]]
+[[Category:Toyota vehicles|Corolla]]
+[[Category:All-wheel-drive vehicles]]
+[[Category:Front-wheel-drive vehicles]]
+[[Category:Cars introduced in 1966]]
+[[Category:Subcompact cars]]
+[[Category:Compact cars]]
+[[Category:Hot Hatch]]
+[[Category:Hatchbacks]]
+[[Category:Coupés]]
+[[Category:Sedans]]
+[[Category:Police vehicles]]
+[[Category:Touring cars]]
+[[Category:World Rally Cars]]
